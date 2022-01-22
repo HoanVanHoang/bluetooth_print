@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369018399842",
+    "project_id": "recognize-vehicle",
+    "storage_bucket": "recognize-vehicle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369018399842:android:d0bac67dd5df1657bf353b",
+        "android_client_info": {
+          "package_name": "com.example.recognize_vehicler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369018399842-h8nj11kacm4bvpfp88adrg6uuuvdicv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recognize_vehicler",
+            "certificate_hash": "e2c29dd5a9a804b4c0068d521a0e376e1dfc722d"
+          }
+        },
+        {
+          "client_id": "369018399842-n4jct3fptbdj26g1cv8ahfvdsk0dnk53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiVB9u-9kSEO_7m7JSfNn2rciCtF-_Y7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369018399842-n4jct3fptbdj26g1cv8ahfvdsk0dnk53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
